@@ -1,4 +1,4 @@
-# ☀️ WeatherZen - App de Previsão do Tempo com Estilo
+# ☀️ WeatherApp - App de Previsão do Tempo com Estilo
 
 Aplicativo desktop desenvolvido com **React + Tailwind + Tauri**, que exibe clima em tempo real, fundo dinâmico com imagens do Unsplash e interface responsiva com suporte a geolocalização 🌍🌤️
 
